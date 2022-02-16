@@ -42,3 +42,25 @@
     width: 100%;
     
 }
+.my_visible_nav{
+    background-color: white;
+    z-index: 3;
+    
+}
+.container_my{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding-top: 120px;
+}
+.my_g_font{
+    font-family:Nunito Sans, 'Courier New', Courier;
+    font-weight: 600;
+    color: rgb(68, 67, 67);
+}
+.my_alfab{
+    list-style-type: lower-alpha;
+    
+}
+.no_line{
+    text-decoration: none;
+}
