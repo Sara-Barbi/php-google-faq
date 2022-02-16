@@ -6,7 +6,7 @@
     height: 35px;
 }
 .privacy_title{
-    color: rgb(149, 144, 144);
+    color: rgb(111, 111, 111);
     font-family: Zen Kaku Gothic Antique, Arial, Helvetica, sans-serif;
     font-weight:700 ;
     font-size: 20px;
@@ -21,4 +21,24 @@
     border-radius: 100%;
     position: absolute;
     right: 100px;
+}
+.my_list_nav{
+    list-style-type: none;
+    font-family: Lato,Arial, Helvetica, sans-serif;
+    color: rgb(111, 111, 111);
+}
+.no_ul{
+    padding-left: 0px;
+    margin-bottom: 0;
+}
+.my_hr{
+    background-color: rgb(101, 166, 247);
+    height: 3px;
+    width: 100%;
+}
+.grey_line{
+    background-color: rgb(154, 154, 154);
+    height: 0.5px;
+    width: 100%;
+    
 }
