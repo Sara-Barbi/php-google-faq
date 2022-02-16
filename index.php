@@ -41,7 +41,7 @@ $arr=[
 
 foreach($arr as $data => $element){
        echo "<div class='container_my'>";
-       echo "<h4 class='my_g_font mb-5'>". $element['question']."</h4>";
+       echo "<h3 class='my_g_font mb-5'>". $element['question']."</h3>";
        echo "<div>". $element['response']."</div>";
        echo "</div>";
     }
